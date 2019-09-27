@@ -1,0 +1,6 @@
+C:\Users\nikos\source\repos\ISMLoops\WhileConsole1\bin\Debug\WhileConsole1.exe.config
+C:\Users\nikos\source\repos\ISMLoops\WhileConsole1\bin\Debug\WhileConsole1.exe
+C:\Users\nikos\source\repos\ISMLoops\WhileConsole1\bin\Debug\WhileConsole1.pdb
+C:\Users\nikos\source\repos\ISMLoops\WhileConsole1\obj\Debug\WhileConsole1.csproj.CoreCompileInputs.cache
+C:\Users\nikos\source\repos\ISMLoops\WhileConsole1\obj\Debug\WhileConsole1.exe
+C:\Users\nikos\source\repos\ISMLoops\WhileConsole1\obj\Debug\WhileConsole1.pdb

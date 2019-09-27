@@ -1,0 +1,6 @@
+C:\Users\nikos\source\repos\ISMLoops\ForConsole7\bin\Debug\ForConsole7.exe.config
+C:\Users\nikos\source\repos\ISMLoops\ForConsole7\bin\Debug\ForConsole7.exe
+C:\Users\nikos\source\repos\ISMLoops\ForConsole7\bin\Debug\ForConsole7.pdb
+C:\Users\nikos\source\repos\ISMLoops\ForConsole7\obj\Debug\ForConsole7.csproj.CoreCompileInputs.cache
+C:\Users\nikos\source\repos\ISMLoops\ForConsole7\obj\Debug\ForConsole7.exe
+C:\Users\nikos\source\repos\ISMLoops\ForConsole7\obj\Debug\ForConsole7.pdb

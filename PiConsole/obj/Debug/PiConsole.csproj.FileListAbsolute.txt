@@ -1,0 +1,7 @@
+C:\Users\nikos\source\repos\ISMLoops\PiConsole\bin\Debug\PiConsole.exe.config
+C:\Users\nikos\source\repos\ISMLoops\PiConsole\bin\Debug\PiConsole.exe
+C:\Users\nikos\source\repos\ISMLoops\PiConsole\bin\Debug\PiConsole.pdb
+C:\Users\nikos\source\repos\ISMLoops\PiConsole\obj\Debug\PiConsole.csproj.CoreCompileInputs.cache
+C:\Users\nikos\source\repos\ISMLoops\PiConsole\obj\Debug\PiConsole.exe
+C:\Users\nikos\source\repos\ISMLoops\PiConsole\obj\Debug\PiConsole.pdb
+C:\Users\nikos\source\repos\ISMLoops\PiConsole\obj\Debug\PiConsole.csprojAssemblyReference.cache
